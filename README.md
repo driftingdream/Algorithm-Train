@@ -2,6 +2,6 @@
 
 ### Introduction
 
-Personal algoritm train problems, this repository is for backing up.
+Personal algorithm train problems, this repository is for backing up.
 
 **Code quality**: it works.
