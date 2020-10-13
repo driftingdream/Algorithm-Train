@@ -72,7 +72,7 @@ bool check(vector <long> v, float div)
 }
 int main()
 {
-    freopen("input.txt", "r", stdin);
+    // freopen("input.txt", "r", stdin);
     // cout << isPrime(5);
     // vector<int> arr = findPrimeDiv(2147483647);
     // for(int i = 0; i < arr.size(); i++)
